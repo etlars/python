@@ -8,6 +8,7 @@ def collide(x1, x2, y1, y2, w1, w2, h1, h2):
 	else:
 		return False
 
+# I will move die function to anywhere.
 def die(screen, score):
 	f=pygame.font.SysFont('Arial', 30)
 	t=f.render('Your score was: '+str(score), True, (0, 0, 0))
