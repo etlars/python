@@ -34,7 +34,7 @@ f = pygame.font.SysFont('Arial', 20)
 clock = pygame.time.Clock()
 
 while True:
-	clock.tick(10)
+	clock.tick(10)  # decrease it to slow down 
 	for e in pygame.event.get():
 		if e.type == QUIT:
 			sys.exit(0)
@@ -88,4 +88,5 @@ while True:
 
 	t=f.render(str(score), True, (0, 0, 0))
 	s.blit(t, (10, 10))
+
 	pygame.display.update()
