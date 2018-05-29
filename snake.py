@@ -1,4 +1,5 @@
 import pygame, random, sys
+#import time #1. controll speed
 from pygame.locals import *
 
 def collide(x1, x2, y1, y2, w1, w2, h1, h2):
@@ -34,7 +35,7 @@ f = pygame.font.SysFont('Arial', 20)
 clock = pygame.time.Clock()
 
 while True:
-	clock.tick(10)  # decrease it to slow down 
+	clock.tick(10)  #2. decrease it to slow down 
 	for e in pygame.event.get():
 		if e.type == QUIT:
 			sys.exit(0)
@@ -88,5 +89,8 @@ while True:
 
 	t=f.render(str(score), True, (0, 0, 0))
 	s.blit(t, (10, 10))
-
+	
+	
+        #pygame.time.wait(100) #3. uncomment if controll speed
+	#time.sleep(0.1)
 	pygame.display.update()
