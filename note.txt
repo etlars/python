@@ -1,0 +1,61 @@
+
+point-of-view   교육입장이 아니라 실제 사용하는 입장에서 이 이야기를 풀어봅니다.
+앞에 있는 아저씨는 뉘신지?
+
+
+프로그래밍을 배워야 하는 이유는? 5:40 동영상
+> https://ukvid.net/video/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84-%EB%B0%B0%EC%9B%8C%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EB%8A%94-SESuctdE9vM.html
+> 빌게이츠,마크주커버그,드류휴스턴"놀라운 힘"
+이 나라 모든 사람들이 컴퓨터 프로그래밍을 배워야 하는 이유는?
+사고하는 법을 배워야 하기 때문이다.
+-Steve Jobs-
+출처 : facebook.com/photo.php?v=506091856093577&set=vb.253319881423200&type=2&theater
+
+
+아두이노 코딩 ... 안에 코딩배워야 하는 이유에 대한 자료가 좀 있음
+http://vulkan.co.kr/doc_arduino_02/001/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8_%EB%A1%9C%EB%B4%87%EC%BD%94%EB%94%A9%EC%B2%B4%ED%97%98_%EA%B5%90%EC%9E%AC_2018_v01.pdf
+
+
+
+언어 참 많다. https://en.wikipedia.org/wiki/List_of_programming_languages_by_type
+
+썰. 나도 낯설다. 알아서 배워야 한다. 신입사원이 더 잘 한다. 
+단, 신생언어 특성상 기존에 만들어놨던 프로그램을 python으로 옮기는 경우, 또다른 언어로 된 프로젝트와 합치는 경우 등등
+python만으로 무언가 하는 경우는 거의 없고, 
+따라서 python만 잘하면... 망한다. 
+
+인공지능 시대에 프로그래밍 배워야 하나
+> "미래를 생각하는 개발자를 위한" 지금 배워야하는 프로그래밍 언어
+> http://www.itworld.co.kr/insight/108698?page=0,1
+'개발자 아니어도…' 당신이 코딩을 꼭 배워야 하는 이유
+> http://www.ciokorea.com/news/30693?page=0,0#csidxfb9b0bd2cfe1b56970a82aeac668831 
+
+
+
+
+
+
+
+
+pip 패키지 관리자. 파이썬으로 작성된 패키지 소프트웨어를 설치·관리하는 패키지 관리시스템
+PyPI (Python Packages Index)로 불리는 라이브러리의 저장소(repository)
+https://pypi.org/   --> 열어서 얼마나 많은 프로젝트와 개발자들이 있는지... browse 열어서... 어떤 프로젝트 들이 있는지 확인해보자
+
+
+
+
+남의 프로그램을 잘 보는 사람이 좋은 프로그래머
+
+그래서 간단한 게임을 짜보기로 했음. 
+무작정 실행해보기. 안되는 이유 찾아보기. 
+오류 읽기. 오류 해결해보기. 무작정 해결해보자. 
+
+누군가의 도움?
+
+구글신? 하지만 너무 자비롭다. 
+
+앞에 있는 아저씨? 조교선생님? 꼭 필요하다. 언젠가 내가 구루가 되는 그날까지는. 
+구루가 되었다고 생각
+
+https://bootstrap.pypa.io/get-pip.py
+
