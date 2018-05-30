@@ -59,3 +59,10 @@ https://pypi.org/   --> 열어서 얼마나 많은 프로젝트와 개발자들�
 
 https://bootstrap.pypa.io/get-pip.py
 
+
+
+
+
+
+https://www.youtube.com/watch?v=ygX7uUXuB6M
+
