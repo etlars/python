@@ -9,7 +9,7 @@ Y_SCREENSIZE=600
 Tick = 60
 
 ourScreen=pygame.display.set_mode((X_SCREENSIZE, Y_SCREENSIZE))
-pygame.display.set_caption("파이게임")
+pygame.display.set_caption("PYGAME")
 finish = False;
 color3=(0,0,0)
 
