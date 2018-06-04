@@ -10,7 +10,7 @@ Y_RECTSIZE=60
 Tick = 60
 
 ourScreen=pygame.display.set_mode((X_SCREENSIZE, Y_SCREENSIZE))
-pygame.display.set_caption("파이게임")
+pygame.display.set_caption("PYGAME")
 finish = False;
 
 
@@ -19,11 +19,11 @@ color2 = (255,0,0)
 color3 = (0,0,0)
 color = color1
 
-# 좌표 
+# coordinates
 x=30
 y=30
 
-# 초당 프레임 
+# frame per sec
 #clock = pygame.time.Clock()
 
 while not finish:
