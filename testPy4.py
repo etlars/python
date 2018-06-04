@@ -4,7 +4,7 @@ import pygame
 pygame.init()
 
 ourScreen=pygame.display.set_mode((400, 300))
-pygame.display.set_caption("파이게임")
+pygame.display.set_caption("PYGAME")
 finish = False;
 
 
@@ -12,11 +12,11 @@ color1 = (0,0,255)
 color2 = (255,0,0)
 color = color1
 
-# 좌표 
+# coordinates
 x=30
 y=30
 
-# 초당 프레임 
+# frame per sec
 #clock = pygame.time.Clock()
 
 while not finish:
